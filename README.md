@@ -35,14 +35,14 @@ A self-taught, passionate software developer from Viet Nam. Now I'm a final year
 ```
 
 <p>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-blue?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Expressjs-blue?style=flat-square&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duykhanhtrandev&show_icons=true&locale=en&layout=compact" alt="duykhanhtrandev" /></p>
